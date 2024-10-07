@@ -3,7 +3,7 @@
 :root {
     --color-bg: #282828;
     --color-fg: #fbf1c7;
-    --color-link: #b8bb26;
+    --color-link: #7074B9;
     --color-link-visited: #b8bb26;
     --color-link-hover: #8ec07c;
 }
@@ -47,7 +47,7 @@ html, body {
 .image img {
   max-height: 500px;
   border-radius: 20px;
-  border: 5px solid #fbf1c7;
+  border: 5px solid #E8D0B3;
 }
 
 .head {
@@ -103,7 +103,7 @@ html, body {
 .title {
   font-size: 16px;
   padding-bottom: 7.5px;
-  color: #b16186;
+  color: #E8D0B3;
 
 }
 
